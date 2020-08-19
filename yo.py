@@ -1,4 +1,4 @@
-print(yo yo yo)
+print(yo yo)
 
 efhudiskh efhudiskhsd chudiskc dszx jc
 dc d isxch dszxe fdchuid ks
